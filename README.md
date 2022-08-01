@@ -3,11 +3,11 @@
 ## ابزار ها
 [تماس گیری](#تماس-گیری)
 ## تماس گیری:
-[Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/):
+[Simple Dialer](https://f-droid.org/fa/packages/com.simplemobiletools.dialer/):
 
 <img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
 
-[Emerald Dialer](https://f-droid.org/en/packages/ru.henridellal.dialer/):
+[Emerald Dialer](https://f-droid.org/fa/packages/ru.henridellal.dialer/):
 
 <img src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/01.png" width="250" height="444.44"><img src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/02.png" width="250" height="444.44">
 
@@ -15,7 +15,7 @@
 ## یوتیوب
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
 صفحه اصلی: https://invidious.io<br>
-نمونه های اینویدوس: https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md<br>
+نمونه های اینویدوس: https://docs.invidious.io/instances/<br>
 ## گروه ابزار ها
 ## ابزار های ساده برای اندروید (Simple Mobile Tools)
 این گروه از ابزار ها شامل کیبورد، ماشین حساب، ضبط کننده صدا و... است.
