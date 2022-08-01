@@ -1,6 +1,16 @@
 # جایگزین یا فرانت اند های آزاد :)
 [ابزار ها](#ابزار-ها) - [فرانت-اند ها](#فرانت-اند-ها) - [گروه ابزار ها](#گروه-ابزار-ها)
 ## ابزار ها
+[تماس گیری](#تماس-گیری)
+## تماس گیری:
+[Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/):
+
+<img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.dialer/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
+
+[Emerald Dialer](https://f-droid.org/en/packages/ru.henridellal.dialer/):
+
+<img src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/01.png" width="250" height="444.44"><img src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/02.png" width="250" height="444.44">
+
 ## فرانت-اند ها
 ## یوتیوب
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
