@@ -1,2 +1,4 @@
 # جایگزین های آزاد :)
-Free Software Alternatives And Good Apps
+## ابزار های ساده برای اندروید (Simple Mobile Tools)
+این گروه از ابزار ها شامل کیبورد، ماشین حساب، ضبط کننده صدا و... است.
+[لینک وبسایت](https://www.simplemobiletools.com/)
