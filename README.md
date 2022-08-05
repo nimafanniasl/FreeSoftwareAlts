@@ -16,12 +16,10 @@
 ## نرم افزار SMS:
 [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/):
 
-<img src="https://f-droid.org/repo/com.better.alarm/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.better.alarm/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.better.alarm/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.better.alarm/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
+<img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
 
 ## ساعت:
-[Simple Alarm Clock](https://f-droid.org/en/packages/com.better.alarm/):
-
-<img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
+[Simple Alarm Clock](https://f-droid.org/en/packages/com.better.alarm/)
 
 ## فرانت-اند ها
 ## یوتیوب
