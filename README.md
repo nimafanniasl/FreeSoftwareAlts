@@ -52,7 +52,7 @@
 
 [KISS](https://kisslauncher.com/):
 
-<img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/1.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/2.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/3.png" width="250" height="444.44"><img src="https://f-droid.org/repo/cfr.neamar.kiss/en-US/phoneScreenshots/4.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/5.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/6.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/7.png" width="250" height="444.44"><img src="https://f-droid.org/repo/cfr.neamar.kiss/en-US/phoneScreenshots/8.png" width="250" height="444.44">
+<img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/1.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/2.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/3.png" width="250" height="444.44">
 
 ## فرانت-اند ها
 ## یوتیوب
