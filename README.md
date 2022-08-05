@@ -7,6 +7,7 @@
 [ساعت](#ساعت)<br>
 [گالری](#گالری)<br>
 [فایل منیجر](#فایل-منیجر)<br>
+[پخش کننده موزیک](#پخش-کننده-موزیک)<br>
 [لانچر](#لانچر)
 ## تماس گیری:
 [Simple Dialer](https://f-droid.org/fa/packages/com.simplemobiletools.dialer/):
@@ -44,6 +45,12 @@
 [Secure File Manager Beta](https://f-droid.org/fa/packages/com.securefilemanager.app/):
 
 <img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_4.jpg" width="250" height="444.44">
+
+## پخش کننده موزیک:
+[Music Player GO](https://f-droid.org/packages/com.iven.musicplayergo/):
+
+<img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_01.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_02.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_03.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_04.png" width="250" height="444.44">
+
 
 ## لانچر:
 [Lawnchair](https://lawnchair.app/):
