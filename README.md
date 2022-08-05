@@ -43,6 +43,11 @@
 [Secure File Manager Beta](https://f-droid.org/fa/packages/com.securefilemanager.app/):
 
 <img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_4.jpg" width="250" height="444.44">
+
+## لانچر:
+[Lawnchair](https://lawnchair.app/):
+
+<img src="https://raw.githubusercontent.com/nimafanniasl/FreeSoftwareAlts/main/screenshots/Lawnchair/1.webp" width="250" height="444.44"><img src="https://raw.githubusercontent.com/nimafanniasl/FreeSoftwareAlts/main/screenshots/Lawnchair/2.webp" width="250" height="444.44"><img src="https://raw.githubusercontent.com/nimafanniasl/FreeSoftwareAlts/main/screenshots/Lawnchair/3.webp" width="250" height="444.44">
 ## فرانت-اند ها
 ## یوتیوب
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
