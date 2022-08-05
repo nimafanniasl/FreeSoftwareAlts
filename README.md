@@ -7,6 +7,7 @@
 [ساعت](#ساعت)<br>
 [گالری](#گالری)<br>
 [فایل منیجر](#فایل-منیجر)<br>
+[لانچر](#لانچر)
 ## تماس گیری:
 [Simple Dialer](https://f-droid.org/fa/packages/com.simplemobiletools.dialer/):
 
