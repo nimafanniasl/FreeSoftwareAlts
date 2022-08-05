@@ -49,6 +49,6 @@
 صفحه اصلی: https://invidious.io<br>
 نمونه های اینویدوس: https://docs.invidious.io/instances/<br>
 ## گروه ابزار ها
-## ابزار های ساده برای اندروید (Simple Mobile Tools)
+## ابزار های ساده موبایل (Simple Mobile Tools)
 این گروه از ابزار ها شامل کیبورد، ماشین حساب، ضبط کننده صدا و... است.
 [لینک وبسایت](https://www.simplemobiletools.com/)
