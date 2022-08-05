@@ -14,13 +14,32 @@
 <img src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/01.png" width="250" height="444.44"><img src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/02.png" width="250" height="444.44">
 
 ## نرم افزار SMS:
-[Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/):
+[Simple SMS Messenger](https://f-droid.org/fa/packages/com.simplemobiletools.smsmessenger/):
 
 <img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.smsmessenger/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
 
-## ساعت:
-[Simple Alarm Clock](https://f-droid.org/en/packages/com.better.alarm/)
+## مخاطبین:
+[Simple Contacts Pro](https://f-droid.org/fa/packages/com.simplemobiletools.contacts.pro/):
 
+<img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
+
+
+## ساعت:
+[Simple Alarm Clock](https://f-droid.org/fa/packages/com.better.alarm/)
+
+## گالری:
+[Simple Gallery Pro](https://f-droid.org/fa/packages/com.simplemobiletools.gallery.pro/):
+
+<img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
+
+## فایل منیجر:
+[Material Files](https://f-droid.org/fa/packages/me.zhanghai.android.files/):
+
+<img src="https://f-droid.org/repo/me.zhanghai.android.files/en-US/phoneScreenshots/1.png" width="250" height="444.44"><img src="https://f-droid.org/repo/me.zhanghai.android.files/en-US/phoneScreenshots/2.png" width="250" height="444.44"><img src="https://f-droid.org/repo/me.zhanghai.android.files/en-US/phoneScreenshots/3.png" width="250" height="444.44"><img src="https://f-droid.org/repo/me.zhanghai.android.files/en-US/phoneScreenshots/4.png" width="250" height="444.44">
+
+[Secure File Manager Beta](https://f-droid.org/fa/packages/com.securefilemanager.app/):
+
+<img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.securefilemanager.app/en-US/phoneScreenshots/app_4.jpg" width="250" height="444.44">
 ## فرانت-اند ها
 ## یوتیوب
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
