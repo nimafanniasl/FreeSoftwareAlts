@@ -49,6 +49,11 @@
 [Lawnchair](https://lawnchair.app/):
 
 <img src="https://raw.githubusercontent.com/nimafanniasl/FreeSoftwareAlts/main/screenshots/Lawnchair/1.webp" width="250" height="444.44"><img src="https://raw.githubusercontent.com/nimafanniasl/FreeSoftwareAlts/main/screenshots/Lawnchair/2.webp" width="250" height="444.44"><img src="https://raw.githubusercontent.com/nimafanniasl/FreeSoftwareAlts/main/screenshots/Lawnchair/3.webp" width="250" height="444.44">
+
+[KISS](https://kisslauncher.com/):
+
+<img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/1.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/2.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/3.png" width="250" height="444.44"><img src="https://f-droid.org/repo/cfr.neamar.kiss/en-US/phoneScreenshots/4.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/5.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/6.png" width="250" height="444.44"><img src="https://f-droid.org/repo/fr.neamar.kiss/en-US/phoneScreenshots/7.png" width="250" height="444.44"><img src="https://f-droid.org/repo/cfr.neamar.kiss/en-US/phoneScreenshots/8.png" width="250" height="444.44">
+
 ## فرانت-اند ها
 ## یوتیوب
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
