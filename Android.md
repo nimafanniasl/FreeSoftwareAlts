@@ -72,7 +72,7 @@
 <img src="https://f-droid.org/repo/com.byagowi.persiancalendar/en-US/phoneScreenshots/01%20Main%20Screen.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.byagowi.persiancalendar/en-US/phoneScreenshots/02%20Compass.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.byagowi.persiancalendar/en-US/phoneScreenshots/03%20Date%20Converter.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.byagowi.persiancalendar/en-US/phoneScreenshots/04%20Prayer%20Times.png" width="250" height="444.44">
 
 ## ماشین حساب
-[OpenCalc](https://f-droid.org/fa/packages/com.darkempire78.opencalculator/):
+[OpenCalc](https://github.com/Darkempire78/OpenCalc/releases/):
 
 <img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/1.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/2.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/3.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/4.png" width="250" height="556">
 
