@@ -33,7 +33,9 @@
 
 
 ## ساعت:
-[Simple Alarm Clock](https://f-droid.org/fa/packages/com.better.alarm/)
+[Simple Clock](https://f-droid.org/fa/packages/com.simplemobiletools.clock/):
+
+<img src="https://f-droid.org/repo/com.simplemobiletools.clock/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.clock/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.clock/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.clock/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
 
 ## گالری:
 [Simple Gallery Pro](https://f-droid.org/fa/packages/com.simplemobiletools.gallery.pro/):
