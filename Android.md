@@ -8,7 +8,9 @@
 [پخش کننده موزیک](#پخش-کننده-موزیک)<br>
 [لانچر](#لانچر)<br>
 [تقویم](#تقویم)<br>
-[ماشین حساب](#ماشین-حساب)
+[ماشین حساب](#ماشین-حساب)<br>
+[تحریم](#تحریم)
+
 ## گروه برنامه ها
 [ابزار های ساده موبایل](#ابزار-های-ساده-موبایل)
 
@@ -80,4 +82,10 @@
 ## ابزار های ساده موبایل
 این گروه از ابزار ها شامل کیبورد، ماشین حساب، ضبط کننده صدا و... است.
 [لینک وبسایت](https://www.simplemobiletools.com/)
+
+## تحریم
+ * [InviZible Pro: increase your security, protect you](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/)
+ * [Riseup VPN](https://f-droid.org/en/packages/se.leap.riseupvpn/)
+ 
+
 
