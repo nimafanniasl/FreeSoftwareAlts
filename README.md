@@ -2,6 +2,32 @@
 [اندروید](Android.md) - [فرانت-اند ها](#فرانت-اند-ها)
 ## فرانت-اند ها
 ## یوتیوب
+
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
-صفحه اصلی: https://invidious.io<br>
-نمونه های اینویدوس: https://docs.invidious.io/instances/<br>
+
+* [صفحهٔ اصلی](https://invidious.io)
+* [نمونه‌های اینویدوس](https://docs.invidious.io/instances)
+
+* [پایپد](https://piped.kavin.rocks)
+
+## توییتر
+
+* [نیتر](https://nitter.net)
+* [گیت‌هاب نیتر](https://github.com/zedeus/nitter)
+
+## ردیت
+
+* [teddit](https://teddit.net)
+
+## اینستاگرام
+
+[bibliogram](https://bibliogram.art)
+
+## گوگل پلی
+
+فروشگاه کاره‌های اندرویدی Fdroid
+
+* [fdroid](https://www.f-droid.org/en)
+
+
+
