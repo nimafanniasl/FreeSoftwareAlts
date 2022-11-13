@@ -14,6 +14,7 @@
 
 * [نیتر](https://nitter.net)
 * [گیت‌هاب نیتر](https://github.com/zedeus/nitter)
+* [ماستودون](https://joinmastodon.org)
 
 ## ردیت
 
