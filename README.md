@@ -28,8 +28,7 @@
 فروشگاه کاره‌های اندرویدی F-droid
 
 * [F-droid](https://www.f-droid.org/en)
-* [Neo store(Client F-droid)](https://f-droid.org/packages/com.machiav3lli.fdroid/)
 
 ## واتساپ
-* [Telegram-Foss](https://www.f-droid.org/fa/packages/org.telegram.messenger/)
-* [Element:Secure Messenger](https://www.f-droid.org/fa/packages/im.vector.app/)
+* [Telegram-Foss](https://telegram.org)
+* [Matrix](https://matrix.org)
