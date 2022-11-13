@@ -21,13 +21,15 @@
 
 ## اینستاگرام
 
-[bibliogram](https://bibliogram.art)
+* [bibliogram](https://bibliogram.art)
 
 ## گوگل پلی
 
-فروشگاه کاره‌های اندرویدی Fdroid
+فروشگاه کاره‌های اندرویدی F-droid
 
-* [fdroid](https://www.f-droid.org/en)
+* [F-droid](https://www.f-droid.org/en)
+* [Neo store(Client F-droid)](https://f-droid.org/packages/com.machiav3lli.fdroid/)
 
-
-
+## واتساپ
+* [Telegram-Foss](https://www.f-droid.org/fa/packages/org.telegram.messenger/)
+* [Element:Secure Messenger](https://www.f-droid.org/fa/packages/im.vector.app/)
