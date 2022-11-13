@@ -9,7 +9,11 @@
 [لانچر](#لانچر)<br>
 [تقویم](#تقویم)<br>
 [ماشین حساب](#ماشین-حساب)<br>
-[تحریم](#تحریم)
+[تحریم](#تحریم)<br>
+[دوربین](#دوربین)<br>
+[چک کردن ایمیل](#چک-کردن-ایمیل)<br>
+[واتساپ](#واتساپ)<br>
+[کلاینت اف دروید](#کلاینت-اف-دروید)<br>
 
 ## گروه برنامه ها
 [ابزار های ساده موبایل](#ابزار-های-ساده-موبایل)
@@ -89,4 +93,11 @@
  * [Proton VPN](https://www.f-droid.org/fa/packages/ch.protonvpn.android/)
  * [Shadowsocks](https://www.f-droid.org/fa/packages/com.github.shadowsocks/)
 
+## واتساپ
 
+* [Telegram-Foss](https://www.f-droid.org/fa/packages/org.telegram.messenger/)
+* [Element:Secure Messenger](https://www.f-droid.org/fa/packages/im.vector.app/)
+
+
+## کلاینت اف دروید
+* [Neo store(Client F-droid)](https://f-droid.org/packages/com.machiav3lli.fdroid/)
