@@ -84,8 +84,9 @@
 [لینک وبسایت](https://www.simplemobiletools.com/)
 
 ## تحریم
- * [InviZible Pro: increase your security, protect you](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/)
+ * [InviZible Pro: increase your security, protect you](https://apt.izzysoft.de/fdroid/index/apk/pan.alexander.tordnscrypt)
  * [Riseup VPN](https://f-droid.org/en/packages/se.leap.riseupvpn/)
- 
+ * [Proton VPN](https://www.f-droid.org/fa/packages/ch.protonvpn.android/)
+ * [Shadowsocks](https://www.f-droid.org/fa/packages/com.github.shadowsocks/)
 
 
