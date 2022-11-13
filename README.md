@@ -30,5 +30,5 @@
 * [F-droid](https://www.f-droid.org/en)
 
 ## واتساپ
-* [Telegram-Foss](https://telegram.org)
+* [Telegram](https://telegram.org)
 * [Matrix](https://matrix.org)
