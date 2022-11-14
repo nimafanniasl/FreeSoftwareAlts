@@ -94,14 +94,14 @@
  * [Shadowsocks](https://www.f-droid.org/fa/packages/com.github.shadowsocks/)
 
 ## دوربین
-* [opencamera](https://f-droid.org/en/packages/net.sourceforge.opencamera)
+ * [Opencamera](https://f-droid.org/en/packages/net.sourceforge.opencamera)
 
 <img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/googleplay_nexus7_screenshot_v_1_49_Screenshot_20210619-152427.png/max/max/1" width="450" height="444.4"><img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/auto_level_v_1_48_web.jpg/max/max/1" width="450" height="444.4"><img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/googleplay_galaxys10e_v_1_49_Screenshot_20191016-115928_Open_Camera.jpg/max/max/1" width="450" height="444.4"><img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/googleplay_galaxys10e_v_1_49_Screenshot_20210614-231708_Open%20Camera.jpg/max/max/1" width="250" height="444.4">
 
 
 ## چک کردن ایمیل 
 
-[K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
+ * [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
 
 ## واتساپ
 
