@@ -14,6 +14,7 @@
 
 * [نیتر](https://nitter.net)
 * [گیت‌هاب نیتر](https://github.com/zedeus/nitter)
+* [ماستودون](https://joinmastodon.org)
 
 ## ردیت
 
@@ -21,13 +22,14 @@
 
 ## اینستاگرام
 
-[bibliogram](https://bibliogram.art)
+* [bibliogram](https://bibliogram.art)
 
 ## گوگل پلی
 
-فروشگاه کاره‌های اندرویدی Fdroid
+فروشگاه کاره‌های اندرویدی F-droid
 
-* [fdroid](https://www.f-droid.org/en)
+* [F-droid](https://www.f-droid.org/en)
 
-
-
+## واتساپ
+* [Telegram](https://telegram.org)
+* [Matrix](https://matrix.org)
