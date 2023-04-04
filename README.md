@@ -3,12 +3,14 @@
 ## فرانت-اند ها
 ## یوتیوب
 
+[پایپد](https://github.com/TeamPiped/Piped): پیشانه‌ای آزاد برای یوتیوب<br>
+
+* [پایپد](https://piped.kavin.rocks)
+
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
 
 * [صفحهٔ اصلی](https://invidious.io)
 * [نمونه‌های اینویدوس](https://docs.invidious.io/instances)
-
-* [پایپد](https://piped.kavin.rocks)
 
 ## توییتر
 
