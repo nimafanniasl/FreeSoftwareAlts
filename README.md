@@ -5,7 +5,7 @@
 
 [پایپد](https://github.com/TeamPiped/Piped): پیشانه‌ای آزاد برای یوتیوب<br>
 
-* [پایپد](https://piped.kavin.rocks)
+* [فهرست نمونه‌های پایپد](https://github.com/TeamPiped/Piped/wiki/Instances)
 
 [اینویدوس](https://github.com/iv-org/invidious): اینویدوس یک جایگزین برای یوتیوب است - سبک، بدون تبلیغات، بدون ردیابی، بدون نیاز به جاوا اسکریپت<br>
 
