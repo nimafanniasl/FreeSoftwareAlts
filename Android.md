@@ -10,7 +10,11 @@
 [لانچر](#لانچر)<br>
 [تقویم](#تقویم)<br>
 [ماشین حساب](#ماشین-حساب)<br>
-[تحریم](#تحریم)
+[تحریم](#تحریم)<br>
+[دوربین](#دوربین)<br>
+[چک کردن ایمیل](#چک-کردن-ایمیل)<br>
+[واتساپ](#واتساپ)<br>
+[کلاینت اف دروید](#کلاینت-اف-دروید)<br>
 
 ## گروه برنامه ها
 [ابزار های ساده موبایل](#ابزار-های-ساده-موبایل)
@@ -88,8 +92,29 @@
 [لینک وبسایت](https://www.simplemobiletools.com/)
 
 ## تحریم
- * [InviZible Pro: increase your security, protect you](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/)
+ * [InviZible Pro: increase your security, protect you](https://apt.izzysoft.de/fdroid/index/apk/pan.alexander.tordnscrypt)
  * [Riseup VPN](https://f-droid.org/en/packages/se.leap.riseupvpn/)
- 
+ * [Proton VPN](https://www.f-droid.org/fa/packages/ch.protonvpn.android/)
+ * [Shadowsocks](https://www.f-droid.org/fa/packages/com.github.shadowsocks/)
+
+## دوربین
+ * [Opencamera](https://f-droid.org/en/packages/net.sourceforge.opencamera)
+
+<img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/googleplay_nexus7_screenshot_v_1_49_Screenshot_20210619-152427.png/max/max/1" width="450" height="444.4"><img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/auto_level_v_1_48_web.jpg/max/max/1" width="450" height="444.4"><img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/googleplay_galaxys10e_v_1_49_Screenshot_20191016-115928_Open_Camera.jpg/max/max/1" width="450" height="444.4"><img src="https://a.fsdn.com/con/app/proj/opencamera/screenshots/googleplay_galaxys10e_v_1_49_Screenshot_20210614-231708_Open%20Camera.jpg/max/max/1" width="250" height="444.4">
 
 
+## چک کردن ایمیل 
+
+ * [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
+
+## واتساپ
+
+* [Telegram-Foss](https://www.f-droid.org/fa/packages/org.telegram.messenger/)
+* [Element:Secure Messenger](https://www.f-droid.org/fa/packages/im.vector.app/)
+
+<img src="https://matrix.org/docs/projects/images/element-android.png" width="250" height="444.4">
+
+## کلاینت اف دروید
+* [Neo store(Client F-droid)](https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.fdroid)
+
+<img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/latest.jpg" width="250" height="444.4"><img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/amoled.jpg" width="250" height="444.4"><img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/app.jpg" width="250" height="444.4"><img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/dark.jpg" width="250" height="444.4">
