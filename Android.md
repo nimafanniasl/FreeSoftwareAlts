@@ -86,10 +86,6 @@
 
 <img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/1.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/2.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/3.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/4.png" width="250" height="556">
 
-## گروه برنامه ها
-## ابزار های ساده موبایل
-این گروه از ابزار ها شامل کیبورد، ماشین حساب، ضبط کننده صدا و... است.
-[لینک وبسایت](https://www.simplemobiletools.com/)
 
 ## تحریم
  * [InviZible Pro: increase your security, protect you](https://apt.izzysoft.de/fdroid/index/apk/pan.alexander.tordnscrypt)
@@ -118,3 +114,8 @@
 * [Neo store(Client F-droid)](https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.fdroid)
 
 <img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/latest.jpg" width="250" height="444.4"><img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/amoled.jpg" width="250" height="444.4"><img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/app.jpg" width="250" height="444.4"><img src="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/phoneScreenshots/dark.jpg" width="250" height="444.4">
+
+## گروه برنامه ها
+## ابزار های ساده موبایل
+این گروه از ابزار ها شامل کیبورد، ماشین حساب، ضبط کننده صدا و... است.
+[لینک وبسایت](https://www.simplemobiletools.com/)
