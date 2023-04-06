@@ -22,15 +22,12 @@
 
 * [teddit](https://teddit.net)
 
-## اینستاگرام
-
-* [bibliogram](https://bibliogram.art)
-
 ## گوگل پلی
 
 فروشگاه کاره‌های اندرویدی F-droid
 
 * [F-droid](https://www.f-droid.org/en)
+* [AuroraStore](https://auroraoss.com/)
 
 ## واتساپ
 * [Telegram](https://telegram.org)
