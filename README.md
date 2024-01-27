@@ -32,3 +32,11 @@
 ## واتساپ
 * [Telegram](https://telegram.org)
 * [Matrix](https://matrix.org)
+
+
+## خودکار سازی تغییر مسیر
+
+با نصب افزونهٔ  **libreredirect** روی مرورگر فایرفاکس می‌توانید استفاده از راه‌حل‌های جایگزین و تغییر مسیر به پیشانه‌های آزاد را خوکار کنید.
+
+
+* [LibRedirect](https://libredirect.github.io/)
