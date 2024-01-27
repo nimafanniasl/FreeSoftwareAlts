@@ -85,6 +85,9 @@
 
 <img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/1.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/2.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/3.png" width="250" height="556"><img src="https://f-droid.org/repo/com.darkempire78.opencalculator/en-US/phoneScreenshots/4.png" width="250" height="556">
 
+[CuteCalc](https://github.com/sosauce/CuteCalc/releases/latest):
+
+<img src="https://camo.githubusercontent.com/33571c55abf215f51eedc0deebf7b85d89f10066688d2f1431002874672da840/68747470733a2f2f692e6962622e636f2f7470393378666e2f53637265656e73686f742d323032342d30312d32332d31332d35322d30392d3739312d636f6d2d736f73617563652d6375746563616c632d656469742e6a7067" width="250" height="556">
 
 ## تحریم
  * [InviZible Pro: increase your security, protect you](https://apt.izzysoft.de/fdroid/index/apk/pan.alexander.tordnscrypt)
