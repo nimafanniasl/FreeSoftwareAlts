@@ -15,7 +15,7 @@ jobs:
 
     auto_screenshot_from_fdroid:
       runs-on: ubuntu-latest
-      name: Automaticly Get Screenshots From F-Droid
+      name: Automatically Get Screenshots From F-Droid
 
       steps:
         - name: Checkout Repository
@@ -31,3 +31,11 @@ jobs:
 
         - name: Run the Script
           run: python Scripts/auto_screenshot_from_fdroid.py
+
+        - name: Commit and Push Changes
+          run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add .
+            git commit -m "Automatically Get Screenshots From F-Droid"
+            git push
