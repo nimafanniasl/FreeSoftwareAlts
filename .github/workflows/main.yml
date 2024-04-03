@@ -1,0 +1,33 @@
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    contrib-readme-job:
+        runs-on: ubuntu-latest
+        name: A job to automate contrib in readme
+        steps:
+            - name: Contribute List
+              uses: akhilmhdh/contributors-readme-action@v2.3.6
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    auto_screenshot_from_fdroid:
+      runs-on: ubuntu-latest
+      name: Automaticly Get Screenshots From F-Droid
+
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
+
+        - name: Set up Python
+          uses: actions/setup-python@v2
+          with:
+                python-version: 3.x
+
+        - name: Install Dependencies
+          run: pip install -r Scripts/requirements.txt  # If you have any dependencies
+
+        - name: Run the Script
+          run: python Scripts/auto_screenshot_from_fdroid.py
