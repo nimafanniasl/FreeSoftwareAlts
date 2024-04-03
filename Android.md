@@ -44,6 +44,8 @@
 
 <img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.contacts.pro/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
 
+[Connect You](https://f-droid.org/en/packages/com.bnyro.contacts/)
+
 
 ## ساعت:
 [Simple Clock](https://f-droid.org/fa/packages/com.simplemobiletools.clock/):
@@ -55,6 +57,7 @@
 
 <img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/1.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/2.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/3.jpg" width="250" height="444.44"><img src="https://f-droid.org/repo/com.simplemobiletools.gallery.pro/en-US/phoneScreenshots/4.jpg" width="250" height="444.44">
 
+[Aves Libre](https://f-droid.org/en/packages/deckers.thibault.aves.libre/)
 ## فایل منیجر:
 [Material Files](https://f-droid.org/fa/packages/me.zhanghai.android.files/):
 
@@ -69,6 +72,7 @@
 
 <img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_01.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_02.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_03.png" width="250" height="444.44"><img src="https://f-droid.org/repo/com.iven.musicplayergo/en-US/phoneScreenshots/shot_04.png" width="250" height="444.44">
 
+[Fossify Music Player](https://f-droid.org/en/packages/org.fossify.musicplayer/)
 
 ## لانچر:
 [Lawnchair](https://lawnchair.app/):
@@ -92,6 +96,9 @@
 [CuteCalc](https://github.com/sosauce/CuteCalc/releases/latest):
 
 <img src="https://camo.githubusercontent.com/33571c55abf215f51eedc0deebf7b85d89f10066688d2f1431002874672da840/68747470733a2f2f692e6962622e636f2f7470393378666e2f53637265656e73686f742d323032342d30312d32332d31332d35322d30392d3739312d636f6d2d736f73617563652d6375746563616c632d656469742e6a7067" width="250" height="556">
+
+[Mint Calculator](https://f-droid.org/en/packages/bored.codebyk.mintcalc/)
+
 
 ## تحریم
  * [InviZible Pro: increase your security, protect you](https://apt.izzysoft.de/fdroid/index/apk/pan.alexander.tordnscrypt)
@@ -132,7 +139,11 @@
 ((به دلیل فروش به شرکت ZipoApps ممکن است بزودی دیگر پروژه ای آزاد نباشد، پیشنهاد نمیشود - نسخه موجود در f-droid همچنان آزاد است و آزاد خواهد ماند اما ممکن است دیگر بروزرسانی نشود.)
 [لینک وبسایت](https://www.simplemobiletools.com/)
 
+جایگزین پیشنهادی
+[Fossify](https://github.com/FossifyOrg)
+
 
 ## مدیر دانلود
 
 * [uget](https://ugetdm.com/downloads/android/)
+* [Download Navi](https://f-droid.org/en/packages/com.tachibana.downloader/)
