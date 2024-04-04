@@ -5,12 +5,12 @@ from bs4 import BeautifulSoup
 TAG_START = "\n<!-- F-droid app screenshots -start -->\n"
 TAG_END = "\n<!-- F-droid app screenshots -end -->"
 
-TAG_NO_IMAGE = "\n<!-- F-droid app screenshots -NoImagesExist -->\n"
+TAG_NO_IMAGE = "\n<!-- F-droid app screenshots -NoImageExists -->\n"
 
 # --------------------------------------------------- #
 
-IMG_WIDTH = 250
-IMG_HEIGHT = 444.44
+IMG_WIDTH = "25%"
+IMG_HEIGHT = "auto"
 
 # --------------------------------------------------- #
 
@@ -63,7 +63,7 @@ def process_file(file_path):
         if match:
             package_name = get_package_name(match.group(1))
             # Check if additional text exists after the line
-            if i < len(lines) - 1 and not lines[i+1].startswith(TAG_START) and not lines[i+1].startswith(TAG_NO_IMAGE):
+            if i < len(lines) - 1 and not lines[i+2].startswith(TAG_START) and not lines[i+2].startswith(TAG_NO_IMAGE):
                 # Call get_pics function to retrieve additional text
                 additional_text = get_pics(package_name)
                 # Insert additional text after the line
