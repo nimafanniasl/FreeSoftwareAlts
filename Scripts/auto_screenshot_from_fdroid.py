@@ -22,12 +22,10 @@ def generate_img_tag(img_url):
     img_tag = f'<img src="{img_url}" width="{IMG_WIDTH}" height="{IMG_HEIGHT}">'
     return img_tag
 
-# Define a function to retrieve additional text based on package name (mock implementation)
 def get_pics(package_name):
     image_links = []
     image_tags = []
-    # # Mock implementation, replace with actual function to retrieve additional text
-    # return f"{TAG_START}Additional text1 for package '{package_name}'{TAG_END}"
+
     html = requests.get(f"https://f-droid.org/fa/packages/{package_name}/").content
     soup = BeautifulSoup(html, "html.parser")
     lis = soup.find_all("li", attrs={"class": ["js_slide", "screenshot"]})
