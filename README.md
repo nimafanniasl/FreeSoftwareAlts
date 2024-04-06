@@ -1,4 +1,4 @@
-<img src="/Logo/README_Image.png"><br>
+<img src="Logo/README_Image.png"><br>
 
 <h2>به ویکی جایگزین های آزاد خوش آمدید!</h2>
 <h3>

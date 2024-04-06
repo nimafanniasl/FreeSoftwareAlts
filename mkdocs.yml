@@ -7,6 +7,8 @@ theme:
   language: fa
   icon:
     repo: fontawesome/brands/github
+  features:
+    - search.highlight
 
 
 extra_css:
