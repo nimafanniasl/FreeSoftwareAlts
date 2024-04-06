@@ -1,0 +1,20 @@
+site_name: جایگزین های آزاد
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+  language: fa
+  icon:
+    repo: fontawesome/brands/github
+
+
+extra_css:
+  - stylesheets/custom.css
+
+extra_javascript:
+  - javascripts/custom.js
+
+repo_url: https://github.com/nimafanniasl/FreeSoftwareAlts/
+repo_name: دیدن پروژه در گیتهاب
+edit_uri: edit/main/docs/
