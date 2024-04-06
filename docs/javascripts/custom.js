@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   externalLinks();
+  var lazyLoadInstance = new LazyLoad({
+  });
 });
 
 

@@ -16,6 +16,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/custom.js
+  - javascripts/lazyload.min.js
 
 repo_url: https://github.com/nimafanniasl/FreeSoftwareAlts/
 repo_name: دیدن پروژه در گیتهاب

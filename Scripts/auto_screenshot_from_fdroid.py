@@ -21,7 +21,7 @@ def get_package_name(url: str):
 
 
 def generate_img_tag(img_url):
-    img_tag = f'<img src="{img_url}" width="{IMG_WIDTH}" height="{IMG_HEIGHT}">'
+    img_tag = f'<img src="/Spinner.svg" data-src="{img_url}" class="lazy" width="{IMG_WIDTH}" height="{IMG_HEIGHT}">'
     return img_tag
 
 
