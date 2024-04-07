@@ -9,8 +9,8 @@ theme:
     repo: fontawesome/brands/github
   features:
     - search.highlight
-    - navigation.instant
     - navigation.sections
+
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
