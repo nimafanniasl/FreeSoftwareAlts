@@ -1,12 +1,11 @@
+# خانه
+
 <img src="Logo/README_Image.png"><br>
 
 <h2>به ویکی جایگزین های آزاد خوش آمدید!</h2>
 <h3>
 با جستجو برای دسته برنامه هایی که میخواهید (مثلا موزیک) یا رفتن به یکی از بخش های ویکی شروع کنید! 😁
 </h3>
-
-[اندروید](اندروید.md) - [فرانت-اند ها](فرانت-اند ها.md)
-
 
 <details>
     <summary>نرم افزار آزاد چیست؟</summary>
@@ -51,6 +50,13 @@
     </p>
 
     <h2><a href="https://www.gnu.org/philosophy/free-sw.fa.html">خواندن ادامه متن در وبسایت گنو...</a></h2>
+</details>
+
+<details>
+    <summary>کردیت</summary>
+    <h3>مشارکت کنندگان این پروژه<br>
+    پروژه <a href="https://github.com/offa/android-foss">offa/android-foss</a>
+    </h3>
 </details>
 
 <details>

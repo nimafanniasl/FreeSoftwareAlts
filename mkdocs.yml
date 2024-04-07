@@ -9,7 +9,23 @@ theme:
     repo: fontawesome/brands/github
   features:
     - search.highlight
-
+    - navigation.instant
+    - navigation.sections
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
 
 extra_css:
   - stylesheets/custom.css
@@ -21,3 +37,10 @@ extra_javascript:
 repo_url: https://github.com/nimafanniasl/FreeSoftwareAlts/
 repo_name: دیدن پروژه در گیتهاب
 edit_uri: edit/main/docs/
+
+nav:
+ - خانه: index.md
+ - اندروید:
+    - برنامه ها: android/android_apps.md
+    - بازی ها: android/android_games.md
+ - فرانت-اند ها: front-ends.md
