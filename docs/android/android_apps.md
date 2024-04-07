@@ -36,6 +36,8 @@
 <img src="/Spinner.svg" data-src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/01.png" class="lazy" width="25%" height="auto"><img src="/Spinner.svg" data-src="https://f-droid.org/repo/ru.henridellal.dialer/en-US/phoneScreenshots/02.png" class="lazy" width="25%" height="auto">
 <!-- F-droid app screenshots -end -->
 
+* [Koler](https://github.com/Chooloo/koler) ([F-Droid](https://f-droid.org/fa/packages/com.chooloo.www.koler))
+
 
 ### نرم افزار SMS
 * [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages) ([F-Droid](https://f-droid.org/fa/packages/org.fossify.messages))
@@ -333,11 +335,6 @@
 * [Twidere](https://github.com/TwidereProject/Twidere-Android) ([F-Droid](https://f-droid.org/fa/packages/org.mariotaku.twidere))
     * [Twidere X](https://github.com/TwidereProject/TwidereX-Android) ([F-Droid](https://www.f-droid.org/app/com.twidere.twiderex))
 * [Voyager](https://github.com/aeharding/voyager) ([F-Droid](https://f-droid.org/fa/packages/app.vger.voyager)
-
-### تماس گیری
-
-* [Fossify Phone](https://github.com/FossifyOrg/Phone) ([F-Droid](https://f-droid.org/fa/packages/org.fossify.phone))
-* [Koler](https://github.com/Chooloo/koler) ([F-Droid](https://f-droid.org/fa/packages/com.chooloo.www.koler))
 
 ### دیکشنری ها
 
