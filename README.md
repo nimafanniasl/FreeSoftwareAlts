@@ -66,39 +66,9 @@
 </details>
 
 # مشارکت کنندگان
-<!-- readme: contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/nimafanniasl">
-            <img src="https://avatars.githubusercontent.com/u/76901932?v=4" width="100;" alt="nimafanniasl"/>
-            <br />
-            <sub><b>Nima Fanniasl</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/EndermanCo">
-            <img src="https://avatars.githubusercontent.com/u/82046100?v=4" width="100;" alt="EndermanCo"/>
-            <br />
-            <sub><b>EndermanXD</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/esmaeelE">
-            <img src="https://avatars.githubusercontent.com/u/22000310?v=4" width="100;" alt="esmaeelE"/>
-            <br />
-            <sub><b>EsmaeelE</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ojaghiradin">
-            <img src="https://avatars.githubusercontent.com/u/50436634?v=4" width="100;" alt="ojaghiradin"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: contributors -end -->
+<a href="https://github.com/nimafanniasl/FreeSoftwareAlts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nimafanniasl/FreeSoftwareAlts" />
+</a>
 
 ## تاریخچه ستاره ها (:
 
