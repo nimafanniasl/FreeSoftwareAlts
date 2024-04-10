@@ -99,3 +99,8 @@
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+## تاریخچه ستاره ها (:
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nimafanniasl/FreeSoftwareAlts&type=Date)](https://star-history.com/#nimafanniasl/FreeSoftwareAlts&Date)
