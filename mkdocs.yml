@@ -26,13 +26,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
+  custom_dir: overrides
 
 extra_css:
   - stylesheets/custom.css
 
 extra_javascript:
   - javascripts/custom.js
-  - javascripts/lazyload.min.js
 
 repo_url: https://github.com/nimafanniasl/FreeSoftwareAlts/
 repo_name: دیدن پروژه در گیتهاب
@@ -41,6 +41,7 @@ edit_uri: edit/main/docs/
 nav:
  - خانه: index.md
  - اندروید:
-    - برنامه ها: android/android_apps.md
-    - بازی ها: android/android_games.md
+    - برنامه ها: android/apps.md
+    - بازی ها: android/games.md
+    - متفرقه: android/misc.md
  - فرانت-اند ها: front-ends.md

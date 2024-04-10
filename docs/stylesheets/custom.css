@@ -1,3 +1,16 @@
 html {
     scroll-behavior: smooth;
 }
+body {
+    font-family: Vazirmatn, sans-serif;
+}
+* {
+    unicode-bidi: plaintext;
+    text-align: start;
+
+}
+.app-icon {
+    border-radius: 25%;
+    margin-right: 10px;
+    vertical-align: middle;
+}
